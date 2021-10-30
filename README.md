@@ -26,7 +26,7 @@ But recently I'm shifting career into ML after realizing how amazing its applica
 
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=AbdassalamAhmad alt=AbdassalamAhmad /> </p>
+<!--<p align=left> <img src=https://komarev.com/ghpvc/?username=AbdassalamAhmad alt=AbdassalamAhmad /> </p>-->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AbdassalamAhmad&show_icons=true&include_all_commits=true)](https://github.com/AbdassalamAhmad/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdassalamAhmad&layout=compact)](https://github.com/AbdassalamAhmad/github-readme-stats)
