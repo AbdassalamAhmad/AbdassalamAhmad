@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Abdassalam Ahmad, nice to have you here:sunglasses:.
+### Hi there 👋, I'm Abdassalam Ahmad, glad to have you here:sunglasses:.
 
 <!--
 
