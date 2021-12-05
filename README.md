@@ -15,8 +15,11 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AbdassalamAhmad-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abdassalam-Ahmad/)](https://www.linkedin.com/in/Abdassalam-Ahmad/)[![CV](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sway.office.com/rCZSNSggVdipvfdU)
-[![Github Badge](https://img.shields.io/badge/-AbdassalamAhmad-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AbdassalamAhmad/)](https://www.github.com/AbdassalamAhmad/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://abdassalamahmad.github.io/)](https://abdassalamahmad.github.io/) <p align='left'>I graduated from Electronics and Communications Department at Faculty of Engineering, Alexandria University. 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abdassalam-Ahmad/)
+[![CV](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sway.office.com/rCZSNSggVdipvfdU)
+[![Github Badge](https://img.shields.io/badge/-AbdassalamAhmad-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AbdassalamAhmad/)](https://www.github.com/AbdassalamAhmad/)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://abdassalamahmad.github.io/)](https://abdassalamahmad.github.io/)
+<p align='left'>I graduated from Electronics and Communications Department at Faculty of Engineering, Alexandria University. 
 But recently I'm shifting career into ML after realizing how amazing its applications are.</p> 
 
 
