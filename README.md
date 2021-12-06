@@ -16,7 +16,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbdassalamAhmad-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abdassalam-Ahmad/)](https://www.linkedin.com/in/Abdassalam-Ahmad/) 
-[![CV](https://img.shields.io/badge/CV-web-blue)](https://sway.office.com/rCZSNSggVdipvfdU)
+[![CV](https://img.shields.io/badge/CV-web-blue)](https://sway.office.com/63nefT71BPK03a4o)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://abdassalamahmad.github.io/)](https://abdassalamahmad.github.io/)
 <p align='left'>I graduated from Electronics and Communications Department at Faculty of Engineering, Alexandria University. 
 But recently I'm shifting career into ML after realizing how amazing its applications are.</p> 
