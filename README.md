@@ -27,6 +27,8 @@ But recently I'm shifting career into ML after realizing how amazing its applica
 - My favourite tools :Jupyter Notebook , VS, TensorFlow.
 
 
+![](image/CV.png)
+
 
 ## Some of my Github Stats
 <!--<p align=left> <img src=https://komarev.com/ghpvc/?username=AbdassalamAhmad alt=AbdassalamAhmad /> </p>-->
