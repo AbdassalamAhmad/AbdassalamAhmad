@@ -38,4 +38,4 @@ But recently I'm shifting career into ML after realizing how amazing its applica
 
 
 ## My CV (web version)
-<img src="image/CV.png" width = "100" height = "100>
+<img src="image/CV.png" width = "200" height = "200">
