@@ -27,7 +27,7 @@ But recently I'm shifting career into ML after realizing how amazing its applica
 - My favourite tools :Jupyter Notebook , VS, TensorFlow.
 
 
-![](image/CV.png)
+
 
 
 ## Some of my Github Stats
@@ -35,3 +35,7 @@ But recently I'm shifting career into ML after realizing how amazing its applica
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AbdassalamAhmad&show_icons=true&include_all_commits=true)](https://github.com/AbdassalamAhmad/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdassalamAhmad&layout=compact)](https://github.com/AbdassalamAhmad/github-readme-stats)
+
+
+## My CV (web version)
+<img src="image/CV.png" width = "100" height = "100>
