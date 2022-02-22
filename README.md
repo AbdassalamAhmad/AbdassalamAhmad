@@ -24,7 +24,7 @@ But recently I'm shifting career into ML after realizing how amazing its applica
 
 - I’m currently learning Supervised Learning types (Classification & Regression).
 
-- My favourite tools :Jupyter Notebook , VS, TensorFlow.
+- My favourite tools :Jupyter Notebook , VSC, TensorFlow.
 
 
 
