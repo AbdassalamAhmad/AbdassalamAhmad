@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdassalam Ahmad, glad to have you here:sunglasses:</h1>
-<h2 align="center">Computer Vision Enthusiast</h2>
+<h2 align="center">I'm a Computer Vision Enthusiast</h2>
 
 <!--- -------------------------Badges------------------- -->
 [![Linkedin Badge](https://img.shields.io/badge/-AbdassalamAhmad-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abdassalam-Ahmad/)](https://www.linkedin.com/in/Abdassalam-Ahmad/)
