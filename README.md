@@ -7,13 +7,13 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://abdassalamahmad.github.io/)](https://abdassalamahmad.github.io/)
 <!--- [![CV](https://img.shields.io/badge/CV-web-blue)](https://sway.office.com/63nefT71BPK03a4o)-->
 
-- 🔭 I’m currently working on **Object Detection and OCR**
-
-- 🌱 I’m currently learning **Computer Vision Fundamentals, Tensorflows.js**
-
+- 🔭 I’m currently working on **A DevOps Project to Showcase my work**
+<!--- -------------------------**Object Detection and OCR**------------------- -->
+- 🌱 I’m currently learning DevOps tools like **Dokcer - K8s - Git & GitHub - Ansible - Terraform - AWS**
+<!--- -------------------------**Computer Vision Fundamentals, Tensorflows.js**------------------- -->
 - 👯 I've just finished [Attendance System using Face Recognition](https://github.com/AbdassalamAhmad/Attendance_System)
 
-- 👨‍💻 All of my projects are available at:  [https://github.com/AbdassalamAhmad?tab=repositories](https://github.com/AbdassalamAhmad?tab=repositories)
+- 👨‍💻 All of my projects are available [here:](https://github.com/AbdassalamAhmad?tab=repositories)
 
 - 📫 How to reach me: **https://www.linkedin.com/in/abdassalam-ahmad/**
 
