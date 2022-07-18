@@ -3,7 +3,7 @@
 
 <!--- -------------------------Badges------------------- -->
 [![Linkedin Badge](https://img.shields.io/badge/-AbdassalamAhmad-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abdassalam-Ahmad/)](https://www.linkedin.com/in/Abdassalam-Ahmad/)
-[![CV](https://img.shields.io/badge/CV-drive-blue)](https://drive.google.com/file/d/1WXWoRTd8QZZOAZT5bC0MovW9rgbN8hYX/view)
+[![CV](https://img.shields.io/badge/CV-drive-blue)](https://drive.google.com/drive/folders/1kN9U7XDRXjopz8fJxnNG1-lUmId8rp4t)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://abdassalamahmad.github.io/)](https://abdassalamahmad.github.io/)
 <!--- [![CV](https://img.shields.io/badge/CV-web-blue)](https://sway.office.com/63nefT71BPK03a4o)-->
 
