@@ -13,11 +13,11 @@
 <!--- -------------------------**Computer Vision Fundamentals, Tensorflows.js**------------------- -->
 - 👯 I've just finished [Attendance System using Face Recognition](https://github.com/AbdassalamAhmad/Attendance_System)
 
-- 👨‍💻 All of my projects are available [here:](https://github.com/AbdassalamAhmad?tab=repositories)
+- 👨‍💻 All of my projects are available [here on github](https://github.com/AbdassalamAhmad?tab=repositories)
 
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/abdassalam-ahmad/)
 
-- 📄 Here is my [CV](https://drive.google.com/drive/folders/1kN9U7XDRXjopz8fJxnNG1-lUmId8rp4t)
+- 📄 Here is my [Updated CV](https://drive.google.com/drive/folders/1kN9U7XDRXjopz8fJxnNG1-lUmId8rp4t)
 
 
 
