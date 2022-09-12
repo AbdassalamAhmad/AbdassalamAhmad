@@ -4,8 +4,7 @@
 <!--- -------------------------Badges------------------- -->
 [![Linkedin Badge](https://img.shields.io/badge/-AbdassalamAhmad-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abdassalam-Ahmad/)](https://www.linkedin.com/in/Abdassalam-Ahmad/)
 [![CV](https://img.shields.io/badge/CV-drive-blue)](https://drive.google.com/file/d/1Ahsu3AbUT9g1QuWx9VuO51kSxvVR8wtk/view?usp=sharing)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://abdassalamahmad.github.io/)](https://abdassalamahmad.github.io/)
-<!--- [![CV](https://img.shields.io/badge/CV-web-blue)](https://sway.office.com/63nefT71BPK03a4o)-->
+<!----[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://abdassalamahmad.github.io/)](https://abdassalamahmad.github.io/)---->
 
 - 🔭 I’m currently working on **A DevOps Project to Showcase my work**
 <!--- -------------------------**Object Detection and OCR**------------------- -->
