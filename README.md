@@ -6,11 +6,13 @@
 [![CV](https://img.shields.io/badge/CV-drive-blue)](https://drive.google.com/file/d/1Ahsu3AbUT9g1QuWx9VuO51kSxvVR8wtk/view?usp=sharing)
 <!----[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://abdassalamahmad.github.io/)](https://abdassalamahmad.github.io/)---->
 
-- 🔭 I’m currently working on **A MEGA DevOps Project to Showcase my work.**
+<!----- 🔭 I’m currently working on **A MEGA DevOps Project to Showcase my work.** -->
 <!--- -------------------------**Object Detection and OCR**------------------- -->
 - 🌱 I’m currently learning DevOps tools like **Dokcer - K8s - Git & GitHub - Ansible - Terraform - AWS**
 <!--- -------------------------**Computer Vision Fundamentals, Tensorflows.js**------------------- -->
-- 👯 I've just finished Documenting my [DevOps_Learning_Journey ](https://github.com/AbdassalamAhmad/DevOps_Learning_Journey)
+- 🔭 I've just finished Developing a big DevOps project [Deploying AWS Web-App with Terraform and GitHub Actions CI/CD Pipeline]([https://github.com/AbdassalamAhmad/DevOps_Learning_Journey](https://github.com/AbdassalamAhmad/Deploying-AWS-webapp-with-Terraform-GitHub-Actions))
+
+- 👯 I've also finished Documenting my [DevOps_Learning_Journey](https://github.com/AbdassalamAhmad/DevOps_Learning_Journey)
 
 - 👨‍💻 All of my projects are available [here on github](https://github.com/AbdassalamAhmad?tab=repositories)
 
