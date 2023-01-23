@@ -18,7 +18,7 @@
 
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/abdassalam-ahmad/)
 
-- 📄 Here is my [Updated CV](https://drive.google.com/file/d/15Lp9Ci4F_-gzNNn-RVe8GHGRmyWSn8Fc/view)
+- 📄 Here is my [Updated CV](https://drive.google.com/file/d/1H-UgF0fvil0xDgpRrXbrHxdlrfEDdT97/view)
 
 
 
